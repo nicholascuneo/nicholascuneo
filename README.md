@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @nicholascuneo
-- 👀 I’m interested in analytics
-- 🌱 I’m currently enrolled in an analytics program gaining insights from data using python, SQL, and BI tools  
-- 💞️ Looking to begin my career in analytics, any recommendations on improvement in my code is appreciated! 
-- 📫 You can find me on [Linkedin](https://www.linkedin.com/in/nicholascuneo/) or reach out at ncuneo1@gmail.com
+## 👋 Welcome to My GitHub!
+
+I'm Nick, currently balancing life as a Mathematics student and Technical Support Engineer in the edtech space.
+
+---
+
+## 🚀 About Me
+- 🧮 Pursuing a second degree in mathematics, exploring how math and technology intersect to solve real-world problems
+- 🛠️ Currently diving into Python and SQL, building my skills for data analysis, automation, and problem-solving
+- 👨‍💻 By day, I support educators and learners by troubleshooting and enhancing technical solutions in the edtech field
+
+---
+
+## 👀 Interests
+- Data analysis and visualization
+- Applying math to real-world challenges
+- Exploring tech solutions for education
+
+---
+
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/nicholascuneo/)
 
 <!---
 nicholascuneo/nicholascuneo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
